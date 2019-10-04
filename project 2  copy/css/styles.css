@@ -1,0 +1,78 @@
+.leftbar_image {
+	height: 500px;
+	float: left;
+	display: block;
+	position: fixed;
+  margin-left:50px;
+
+}
+
+
+.button {
+
+height: 50px;
+width: 150px;
+font: gotham;
+font-size: 14px;
+border:none;
+color: white;
+background-color: #00acee;
+border-radius: 50px;
+margin-left: 150px;
+font-weight: bold;
+position: fixed;
+float: left;
+display: block;
+margin-top: 500px; 
+
+}
+
+a:-webkit-any-link {
+   border: none;
+   color: white;
+   font-size: 14px;
+   background-color: #00acee;
+   text-decoration: none;
+   text-align: inherit; 
+   line-height: 0px;
+   text-indent: -2em;
+   font-family: helvetica;
+   margin-left: 155px;
+   height: 25px;
+   width: 130px;
+   font-weight: bold;
+   position: fixed;
+   float: left;
+   display: block;
+   padding-left: 75px;
+   padding-top: 25px;
+}
+
+.tweet_bar {
+	height: 145px;
+	display: block;
+  margin-left: 418px;
+  margin-right: auto;
+  padding-right: 560px;
+}
+
+
+.timeline_image {
+	height: 510px;
+	margin-top: 1px;
+	margin-left:418px;
+	margin-bottom: 1000px;
+
+}
+
+
+.rightbar_image{
+	height: 700px;
+	float: right;
+	margin-left: 950px;
+	margin-bottom: 200px;
+	position: fixed;
+
+}
+
+
