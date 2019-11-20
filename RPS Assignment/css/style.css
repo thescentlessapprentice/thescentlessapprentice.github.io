@@ -1,0 +1,102 @@
+
+.imgPrep{
+	content: url(pictures/prep.JPG);
+	width: 1000px;
+	position: absolute; /* so absolute means they stay at the first place*/
+
+
+}
+
+
+
+
+
+
+.imgRRtie{
+	content: url(pictures/RRtie.JPG);
+	width: 1000px;
+	position: absolute;
+	display: none;
+}
+
+.imgRPbwins{
+	content: url(pictures/RPbwins.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+
+}
+
+.imgRSawins{
+	content: url(pictures/RSawins.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+
+
+}
+
+.imgPRawins{
+	content: url(pictures/PRawins.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+
+
+}
+
+.imgPPtie{
+	content: url(pictures/PPtie.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+}
+
+.imgPSbwins{
+	content: url(pictures/PSbwins.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+}
+
+
+.imgSRbwins{
+	content: url(pictures/SRbwins.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+}
+
+.imgSPawins{
+	content: url(pictures/SPawins.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+}
+
+.imgSStie{
+	content: url(pictures/SStie.JPG);
+	width: 1000px;
+	position: absolute; 
+	display: none;
+}
+
+
+
+
+
+
+.refreshButton{
+	width: 691px;
+	height: 137px;
+	border: solid;
+	border-width: 0.5;
+	border-color: black;
+	position: absolute;
+	top: 413px;
+	left: 183px;
+
+}
+
+
+
